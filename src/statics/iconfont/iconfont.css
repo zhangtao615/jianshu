@@ -1,0 +1,17 @@
+
+@font-face {font-family: "iconfont";
+    src: url('./iconfont.eot?t=1613619442352'); /* IE9 */
+    src: url('./iconfont.eot?t=1613619442352#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('data:application/x-font-woff2;charset=utf-8;base64,d09GMgABAAAAAAPgAAsAAAAACJgAAAOTAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHEIGVgCDHAqEWIQ8ATYCJAMQCwoABCAFhG0HQxupBxEVnPnIfhS4W8kWdYfnZ63H5UcjGUn3fcjA9/omTbZXPUsHgm33oC/APF/d3r/dCwJpJsGAI26CIFAP25pzBHLCRE2WZN3Yo3/Ifzl/aTr4n2vq0hosv80mtjfzqOYuPRxgWevAItIK5IA3kbFvGLuJOIzTQAASV8HImVtcDQEDJhEAeTp1aAUhZsVK8gkBweesbHcyEwbCmMRdBcxwv08+HBEAjqEAZpa3z2mL9GeGZ43pyP8jNaUYyPpzA5DWARQQDGBA7lxva1A/EoySjFQmFiBANwd9dUU/a/z/Py9fi1bgfQDX+s8jC4BWYYnRUQrPDJgLHDyLlubpGrPyEziJAQABkANgL4DfAMmZ0HHSsE0hd3sJgo08qPaMkeh6rapWa1rNFGNZzbx1W0bZDjYa6+LinMZ1fYjMCT4QpR0WGGvOROmqtautE9BWt+OM39MX9XKTuVrdhjthujpIaqzUS0PkZo0Xu0pL7eu73ZCnAFIkVZqsk1F1daMkvbjm7NHRyGPylDuEJPVUnj5ZFQ3JpcvvqCsInaoqbYV6Z5fcIaGOT59OCBb2E6N2aXTcrl3jmCDdvYsbBy27d4eZu3aD/i1cAT8XV3mijkS4FqKt/eCJF2rqHay+V5kvljMGHK1oME/rncW1lcy9RqaUKe0OpU50eDCk3i95dyDr4jHW99f359UWSxREaTmiMd+7mh9hE3VycE3xuOltutPGA5zHl/JrSmfO+nZN4vyzKhKzkqK6jLHoZ9asIhfb+3XjM9ycenuEHgvzQU8AwP+TFKrTXebKekpb0ld0z18QAAHLfdeAFmbJXwWZAQAeVpNPjLyeDq9ZVlv2P2BYAgB7ZQWwsdZlWPGHZDOtkAY3OR8SCfAXJABLj/sw2tzqGCGwCYHTiAtQAm8sIwaDgSwaeII0kATJWy+z0hsUaRFAoHEMEOZ2AMfUCaDMXcMy4iMwsPUWeOahIBG8s9txa59yc2JUghb0H0pDnUMO2Xj5d/RDoziqcBlv5L70QxolyfgNO+Q+5vQfn4k4cEwtXJnzsGkIAlOFRqJCJORx7PLeFBlqRxsnDCkCWUD7AyWDdBytLDapz98hb9BQuATR4H1DrFf2DlKRpAb2pu1qIc6lf+/Dywjh+HEOIy1wZd2ogRECQv6wCjJEpGgRCnIxV87V1Ubj69sr3AArsEtnpNKZNpfqvFVVSQcv/0OrSJeTgxqNAAA=') format('woff2'),
+    url('./iconfont.woff?t=1613619442352') format('woff'),
+    url('./iconfont.ttf?t=1613619442352') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+    url('./iconfont.svg?t=1613619442352#iconfont') format('svg'); /* iOS 4.1- */
+  }
+
+  .iconfont {
+    font-family: "iconfont" !important;
+    font-size: 16px;
+    font-style: normal;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
